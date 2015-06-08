@@ -1,0 +1,13 @@
+<div class="MainMenu">
+    <ul>
+        <a href="topics.php"><li>Topics</li></a>
+        <a href="post.php"><li>Write a Post</li></a>
+        <a href="users.php"><li>Users</li></a>
+        <a href="aboutus.php"><li>About Us</li></a>
+        <a href="home.php"><li>Home</li></a>
+    </ul>
+    
+    
+    
+    
+</div>
